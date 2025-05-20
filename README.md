@@ -1567,3 +1567,5 @@ Weighted Model Averaging is the technique `fed_rf` uses to intelligently combine
 
 This chapter concludes our deep dive into the core concepts and workflow of `fed_rf`. You now understand the main components (`FLClient`, `FLServer`), the code they execute ([Syft Functions](04_syft_functions__ml_experiment__evaluate_global_model__.md)), the configuration they use ([Data & Model Parameters](05_data___model_parameters_.md)), the security layer ([Code Request/Approval](06_code_request_approval_.md)), and finally, how the models are combined (Weighted Model Averaging).
 
+### References:
+This repo is building on the work of [fed_rf_mk](https://github.com/ieeta-pt/fed_rf)
